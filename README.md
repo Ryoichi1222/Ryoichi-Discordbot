@@ -1,1 +1,2 @@
-# Discordbot-3
+# Discordbot    
+このボットは
